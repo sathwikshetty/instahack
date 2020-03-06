@@ -1,4 +1,4 @@
-
+cd instahack
 '''
 TODO LIST:
 	Fix and make proxy function better
